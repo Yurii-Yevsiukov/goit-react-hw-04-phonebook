@@ -1,5 +1,5 @@
-import css from './ContactListItem.module.css';
 import PropTypes from 'prop-types';
+import css from './ContactListItem.module.css';
 
 export const ContactListItem = ({ filteredContact, deleteContact }) => {
   const handleDelete = () => {

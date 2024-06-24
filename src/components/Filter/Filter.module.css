@@ -10,8 +10,8 @@
 
 .filterInput {
   width: 460px;
-  font-size: 16px;
   padding: 8px;
+  font-size: 16px;
   border: 1px solid black;
   border-radius: 4px;
 }
